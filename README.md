@@ -1,4 +1,6 @@
 # ***ProYRB***
-[![C/C++](https://img.shields.io/badge/Learning-C/C++-important)]()[![Qt](https://img.shields.io/badge/Qt-success)]()
+[![Learning](https://img.shields.io/badge/Learning-C/C++-important)]()[![Qt](https://img.shields.io/badge/Qt-success)]()[![Git](https://img.shields.io/badge/Git-blueviolet)]()
 
-[![Windows10](https://img.shields.io/badge/Platform-Windows10-informational)]()
+[![Platform](https://img.shields.io/badge/Platform-Windows10-informational)]()
+
+[![Expect](https://img.shields.io/badge/Expect-⭐-lightgrey)]()
