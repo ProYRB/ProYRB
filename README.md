@@ -3,4 +3,4 @@
 
 [![Platform](https://img.shields.io/badge/Platform-Windows10-informational)]()
 
-[![Expect](https://img.shields.io/badge/Expect-⭐-red)]()
+[![Expect](https://img.shields.io/badge/Expect-⭐-yellow)]()
